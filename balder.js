@@ -16,7 +16,7 @@ function ellipse(x, y, radiusX, radiusY, color = "black", lineWidth) {
     }
     else {
         ctx.fillStyle = color;
-        ctx.fill();
+        ctx
     }
 }
 function circle(x, y, radius, color, lineWidth) {
